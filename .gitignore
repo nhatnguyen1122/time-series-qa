@@ -1,0 +1,17 @@
+# downloaded data and checkpoints (experiments/setup.sh)
+data/
+models/
+# training / evaluation outputs, analysis results and write-ups (kept locally)
+runs/
+logs/
+results/
+reports/
+hf_home/
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
